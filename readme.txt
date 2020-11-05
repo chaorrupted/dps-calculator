@@ -6,7 +6,7 @@ note2: crit damage in this context refers to bonus damage percentage you do on a
 
 note3: only two significant figures are supported for crit chance & crit damage, but you can edit the code to change that.
 
-note4: you can modify duration to be a fix number instead of 10000*cooldown and uncomment lines related to idle time so you can see how much time is wasted due to your time limit and ability cooldown.
-what is time wasted? i mean the 20 seconds you spend doing nothing when you have a 40 second cooldown attack and 100 seconds to deal damage.
+note4: you can modify duration to be a fixed number instead of 10000*cooldown and uncomment lines related to idle time so you can see how much time is wasted due to your time limit and ability cooldown.
+what is time wasted? i mean the 20 seconds you spend doing nothing when you have a 40 second cooldown attack and only 100 seconds to deal damage.
 
-note5: might act weird because god knows how computers work??? feature requests, criticism and PRs are welcome 
+note5: might act weird because god knows how computers work??? feature requests, criticism and PRs are welcome.
